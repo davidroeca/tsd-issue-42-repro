@@ -1,6 +1,6 @@
 import React from 'react'
-import { MyComponent } from '.'
 import { expectType, expectError } from 'tsd'
+import { MyComponent } from '.'
 
 // expected interface
 expectType<JSX.Element>(
