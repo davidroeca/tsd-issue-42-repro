@@ -1,0 +1,20 @@
+{
+  "name": "tsd-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "types": "types",
+  "tsd": {
+    "strict": true
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.5",
+    "@types/react-dom": "^16.9.1",
+    "tsd": "^0.9.0",
+    "typescript": "^3.6.3"
+  },
+  "dependencies": {
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  }
+}
