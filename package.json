@@ -1,5 +1,5 @@
 {
-  "name": "tsd-repro",
+  "name": "tsd-issue-42-repro",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",

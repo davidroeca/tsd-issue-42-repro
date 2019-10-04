@@ -1,8 +1,9 @@
-### tsd reproduction
+### tsd Issue [#42](https://github.com/SamVerschueren/tsd/issues/42) Reproduction
 
-This repo reproduces an issue with [tsd](https://github.com/SamVerschueren/tsd).
+This repo reproduces an issue  with [tsd](https://github.com/SamVerschueren/tsd).
 
 Here's how to reproduce:
+
 ```
 # within this repo
 npm ci
